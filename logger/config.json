@@ -1,0 +1,14 @@
+{
+    "log_file": {
+        "directory": "\\home\\jack\\Documents\\Logs",
+        "name": "app",
+        "extension": ".log"
+    },
+    "exception_file": {
+        "directory": "\\home\\jack\\Documents\\Logs",
+        "name": "app",
+        "extension": ".log.exc"
+    },
+    "write_debug": true,
+    "write_trace": true
+}
